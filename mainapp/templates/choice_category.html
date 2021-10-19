@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %} Категории товаров {% endblock %}
+{% block content %}
+<div class="content flex-column-center">
+
+    <div class="flex-row-center flex-wrap">
+        {% for category in categories %}
+            <a href="{{ category.get_absolute_url }}" class="category-card flex-column-center">
+                <img src="{{ category.image_logo.url }}" alt="">
+                <span class="text-black-title"> {{ category.title }}</span>
+            </a>
+        {% endfor %}
+    </div>
+
+    <div class="flex-row-center flex-wrap">
+        <a href="{% url 'delivery_payment' %}" class="text-black-title shop-buttons">
+            Доставка и оплата
+        </a>
+
+        <a href="#" class="text-black-title shop-buttons">
+            Наши сервисы
+        </a>
+
+        <a href="{% url 'distributors' %}" class="text-black-title shop-buttons">
+            Точки продаж
+        </a>
+    </div>
+{% endblock %}
+
+
+</div>

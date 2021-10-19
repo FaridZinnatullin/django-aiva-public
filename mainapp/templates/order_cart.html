@@ -1,0 +1,10 @@
+<div>
+    {% for item in cart.products.all %}
+        <div class="product-row-mini flex-row-start">
+            <div class="img-in-card" style= "background-image: url( '{{ item.product.image.url }}'); background-size: cover"></div>
+            <span class="title-product-line">{{ item.product.series }} | {{ item.product.title }}</span>
+            <span>{{ item.qty }}</span>
+            <span>{{ item.final_price }} руб.</span>
+        </div>
+    {% endfor %}
+</div>

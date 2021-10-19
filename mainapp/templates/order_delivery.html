@@ -1,0 +1,141 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% load static %}
+
+
+{% block title %} Оформление заказа {% endblock %}
+
+
+{% block content %}
+
+    <section>
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-12">
+                    <h2 class="text-center text-uppercase mb-2">
+                        Выбор способа доставки
+                    </h2>
+                </div>
+            </div>
+
+            <div>
+                <div class="row">
+                    <div class="col-12 mt-4"><h5>Ваши данные:</h5></div>
+                </div>
+                <div class="row">
+                    <div class="col-4">Получатель:</div>
+                    <div class="col-8">{{ order.first_name }} {{ order.last_name }}</div>
+                </div>
+                <div class="row">
+                    <div class="col-4">Телефон:</div>
+                    <div class="col-8">{{ order.phone }}</div>
+                </div>
+                <div class="row">
+                    <div class="col-4">Адрес доставки:</div>
+                    <div class="col-8">{{ order.city }}, {{ order.street }}, {{ order.building }}</div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-12 mt-4">
+                    <h5 class="">Доступные способы доставки по Вашему адресу:</h5>
+                </div>
+            </div>
+            <form action="{% url 'order-delivery' %}" method="POST" class="flex-column-center-start" required>
+                {% for delivery in order.available_delivery.all %}
+                    <div class="row w-100">
+                        <div class="col-8">
+                            <div class="form-check">
+                                <label for="delivery_choice"
+                                       class="form-check-label text-nowrap"> {{ delivery.title }}</label>
+                                <input type="radio" class="form-check-input" name="delivery_choice" required
+                                       checked="checked"
+                                       value="{{ delivery.code }}">
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div id="{{ delivery.code }}-price"> {{ delivery.price }}</div>
+                        </div>
+                    </div>
+                {% endfor %}
+
+
+                <input type="text" style="display: none" required id="id_pvz" name="pvz_code">
+
+
+                <div class="row">
+                    <div id="map" class="mt-2 col-12" style="display: none">
+                        <h5>Пожалуйста, выберите пункт выдачи на карте</h5>
+                        <span>Не забудьте нажать кнопку "забрать здесь"</span>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-12">
+                        <input type="submit" class="btn btn-dark justify-content-center" value="К оплате">
+                    </div>
+                </div>
+
+                {% csrf_token %}
+            </form>
+
+        </div>
+
+
+    </section>
+
+
+    {##}
+    {#    <div class="checkout-delivery">#}
+
+    {#        <div class="text-black-title">2. Способ доставки</div>#}
+    {##}
+    {#        <div id="checkout-delivery-choice">#}
+    {##}
+    {#            <h4 class="">Доступные способы доставки по Вашему адресу:</h4>#}
+    {##}
+    {#            <form action="{% url 'order-delivery' %}" method="POST" class="flex-column-center-start" required>#}
+    {##}
+    {#                {% for delivery in order.available_delivery.all %}#}
+    {#                    <div class="flex-row-space-between">#}
+    {#                        <div class="flex-row-start">#}
+    {#                            {% csrf_token %}#}
+    {#                            <input type="radio" name="delivery_choice" required checked="checked" value="{{ delivery.code }}">#}
+    {#                            <div> {{ delivery.title }}</div>#}
+    {#                        </div>#}
+    {#                        <div id="{{ delivery.code }}-price"></div>#}
+    {#                    </div>#}
+    {##}
+    {##}
+    {#                {% endfor %}#}
+    {##}
+    {#                <input type="text" style="display: none" required id="id_pvz" name="pvz_code">#}
+    {##}
+    {#                <input type="submit" value="К оплате">#}
+    {#            </form>#}
+    {##}
+    {##}
+
+    {##}
+    {##}
+    {#        </div>#}
+    {##}
+    {#    </div>#}
+    {#    <div class="flex-column-center-start">#}
+    {#        {% include 'order_cart.html' %}#}
+    {#    </div>#}
+    <div class="meta-info" style="display: none">
+        <input type="text" style="display: none" value="{{ order.city }}" id="id_city">
+        <input type="text" style="display: none" value="{{ order.region }}" id="id_region">
+        <input type="text" style="display: none" value="{{ order.country }}" id="id_country">
+    </div>
+
+
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru-RU&amp;apikey=f16a0688-7251-49c4-beef-cc4b6aad746a"
+            type="text/javascript"></script>
+    <script src="../static/js/order-delivery.js"></script>
+{% endblock content %}
+
+

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="main-poster flex-row-end">
+
+        <div class="main-poster-slogan flex-column-center">
+            <span class="main-poster-slogan-title">AIVA COSMETICS</span>
+            <span class="main-poster-slogan-text">косметика для всех</span>
+        </div>
+
+    </div>
+
+
+    <div class="content flex-column-center ">
+        {% include 'carousel_of_product_cards.html' %}
+
+        <div class="green-bar text-white-title flex-column-center"></div>
+
+        {% include 'carousel_of_series_posters.html' %}
+
+        <div class="green-bar text-white-title flex-column-center"> Информационная служба Aiva Cosmetics</div>
+
+        {% include 'carousel_of_articles.html' %}
+
+        {% include 'plank-cruelty-free.html' %}
+
+        <hr width="100%" color="#163B1E" size="3px">
+
+        <div class="slogan">
+            AIVA COSMETICS
+            <br>наша цель - совершенство вашей кожи
+        </div>
+
+        {% include 'collaboration_plank.html' %}
+
+{% endblock content %}

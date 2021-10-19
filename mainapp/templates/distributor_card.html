@@ -1,0 +1,31 @@
+<div class="flex-column shop-card shadow">
+    <div class="text-black-title shop-card-title">
+        {{ distributor.city}}
+    </div>
+    <div class="description">
+        {{ distributor.description }}
+    </div>
+    <div class="address">
+        Адрес:
+        {{ distributor.address }}
+    </div>
+
+    {% if distributor.url %}
+        <div class="e-shop-url">
+            Интернет-магазин:
+            <a href="http://{{ distributor.url }}" style="color:red!important"> Интернет-магазин </a>
+        </div>
+    {% endif %}
+
+
+    {% if distributor.url_inst %}
+        <div class="inst-url">
+            Инстаграмм
+            <a href="https://www.instagram.com/{{ distributor.url_inst }}" style="color:red!important"> Instagram </a>
+        </div>
+    {% endif %}
+
+    <div class="poster">
+        <img src="{{ distributor.image.url }}" alt="">
+    </div>
+</div>

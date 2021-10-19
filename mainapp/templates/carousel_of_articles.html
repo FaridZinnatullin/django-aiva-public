@@ -1,0 +1,19 @@
+
+
+<div class="article-cards-full-block flex-column-center">
+    <div class="cards-block flex-row-center">
+        {% for article in articles %}
+        <div class="article-card flex-column-center">
+            <div class="flex-column-start">
+                <img src="{{ article.image.url }}" alt="" class="article-card-poster">
+                <span class="article-card-title">{{ article.title}}</span>
+                <span class="article-card-text">{{ article.text}}</span>
+            </div>
+            <a href="#" class="green-button margin-20"> Подробнее </a>
+
+        </div>
+        {% endfor %}
+    </div>
+
+    <a href="" class="green-white-button" style="margin-left: 600px"> Читать больше статей AIVA про</a>
+</div>

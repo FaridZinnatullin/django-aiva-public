@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block title %} Калькулятор доставки {% endblock %}
+{% block content %}
+    <div class="flex-row-center">
+        <form action="{% url 'delivery-calculator' %}" method="GET">
+            <input type="text" name="search_city">
+            <button type="submit" class="green-button"> Рассчитать </button>
+        </form>
+    {% if cities %}
+        {% for city in cities %}
+            <span>Город: {{ city.city }} </span>
+            <span>Регион: {{ city.region }} </span>
+            <span>Стоимость доставки: {{ city.delivery_price }} рублей </span>
+        {% endfor %}
+    {% endif %}
+    </div>
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block title %} Наши представители {% endblock %}
+
+{% block content %}
+
+    <div class="content">
+        <div class="main-poster-slogan-text text-white-title" style="margin-left: 60%"> Точки продаж </div>
+
+        <div class="flex-row-center">
+
+            <div class="col-1 flex-column">
+                {% for distributor in distrib_1 %}
+                    {% include 'distributor_card.html' %}
+                {% endfor %}
+            </div>
+            <div class="col-2 flex-column">
+                {% for distributor in distrib_2 %}
+                    {% include 'distributor_card.html' %}
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+
+{% endblock %}

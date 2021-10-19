@@ -1,0 +1,60 @@
+{% load static %}
+<div class = 'header'>
+        <div class="login-button">
+
+            <a href="#" style="padding-right:10px" >
+                <img src="{% static 'img/logo-account.svg' %}" alt="">
+            </a>
+            {% if not request.user.is_authenticated %}
+
+                <a href="{% url 'login' %}">Войти...</a>
+
+            {% else %}
+                <div class="flex-column-start">
+                Приветствуем, {{ request.user.username }}
+
+                <a href="{% url 'logout' %}" class="logout-button">| Выйти </a>
+                </div>
+
+
+            {% endif %}
+        </div>
+        <div class="logo-slogan">
+            <a href="{% url 'main_page' %}">
+                <img src="{% static 'img/logo.svg' %}" alt="logo" class="logo">
+            </a>
+            совершенство вашей кожи - наша цель
+        </div>
+
+        <div class="card-button flex-row-align-center">
+            <a href="{% url 'cart' %}">
+                <img src="{% static 'img/logo-card.svg' %}" alt="">
+            </a>
+            <div class = 'card-info flex-column-start'>
+                <ruby>{{ cart.products.count }} товаров</ruby>
+                <ruby>Сумма: {{ cart.final_price}} руб.</ruby>
+            </div>
+        </div>
+
+</div>
+
+
+    <div class="navbar flex-center">
+        <div class="navbar-buttons flex-row">
+            <a href="#" class="navbar-button"> О AIVA COSMETICS </a>
+            <a href="#" class="navbar-button"> AIVA ПРО... </a>
+            <a href="#" class="navbar-button"> ГИД ПО AIVA </a>
+            <a href="#" class="navbar-button"> ПРОДУКЦИЯ </a>
+            <a href="#" class="navbar-button"> ПОДБОР УХОДА / АНКЕТА </a>
+            <a href="{% url 'categories'  %}" class="navbar-button"> МАГАЗИН </a>
+        </div>
+    </div>
+
+
+
+    <div class="searcher flex-row-center">
+        <form action="" class = 'search-form'>
+            <input type="text" placeholder="Введите запрос..." class="search-input" maxlength='255'>
+        </form>
+    </div>
+

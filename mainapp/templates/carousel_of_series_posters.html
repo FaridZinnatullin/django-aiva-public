@@ -1,0 +1,26 @@
+
+
+{% for seria in series %}
+<div class="poster-block flex-row-end" style="background-image: url('{{ seria.image.url }} '); background-size: cover;">
+
+    <div class="poster-block-text flex-column-center">
+
+        <div class="poster-article-title">
+            {{ seria.title  }}
+        </div>
+
+        <hr width="70%" size="3px" color="black" class="line-in-poster">
+
+        <div class="poster-article-description">
+            {{ seria.description }}
+        </div>
+
+        <a href="#" class="green-button margin-top-30">
+            Подробнее
+        </a>
+
+    </div>
+</div>
+{% endfor %}
+
+

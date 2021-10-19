@@ -1,0 +1,139 @@
+{% extends 'base.html' %}
+
+{% block title %} Корзина товаров {% endblock %}
+
+{% block content %}
+    <section class="content flex-column-center">
+        <div class="cart">
+
+            <div class="row">
+                <div class="col-12">
+                    <h3 class="text-center text-uppercase"> Корзина товаров</h3>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="row g-4 bg-ping">
+                    <div class="col-4 text-center">
+                        Товар
+                    </div>
+                    <div class="col-3 text-center">
+                        Количество
+                    </div>
+                    <div class="col-2 text-center">
+                        Цена
+                    </div>
+                    <div class="col-3 text-center">
+                        Действия
+                    </div>
+                </div>
+                {% for item in cart.products.all %}
+                    <div class="row mt-4">
+                        <div class="col-4 text-start">{{ item.product.title }}</div>
+                        <div class="col-3 inline text-center justify-content-center">
+                            <form action="{% url 'change_qty' slug=item.product.slug %}" method="POST"
+                                  class="flex-nowrap">
+                                {% csrf_token %}
+
+                                <input type="submit" value="+" name='changeQty' class="btn btn-light">
+                                <span class="qtyNum m-3">
+                                    {{ item.qty }}
+                                </span>
+                                <input type="submit" value="-" name='changeQty' class="btn btn-light">
+                            </form>
+                        </div>
+                        <div class="col-2 text-center">{{ item.final_price }}</div>
+                        <div class="col-3 text-center">
+                            <a href="{% url 'delete_from_cart' slug=item.product.slug %}">
+                                <svg width="20" height="20">
+                                    <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                                        <defs>
+                                            <style>.cls-1 {
+                                                fill: none;
+                                                stroke: #000;
+                                                stroke-linecap: round;
+                                                stroke-linejoin: round;
+                                                stroke-width: 2px;
+                                            }</style>
+                                        </defs>
+                                        <title/>
+                                        <g id="cross">
+                                            <line class="cls-1" x1="7" x2="25" y1="7" y2="25"/>
+                                            <line class="cls-1" x1="7" x2="25" y1="25" y2="7"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                {% endfor %}
+                <form action="{% url 'activate-promocode' %}">
+                    <div class="row mt-5">
+
+                        <div class="col-3">
+
+                            <input class="form-control" name="promocode" id="input-promocode"
+                                   placeholder="Введите промокод...">
+                        </div>
+                        <div class="col-2"><input type="submit" class="btn btn-dark"
+                                                  value="Активировать">
+                        </div>
+
+                    </div>
+                </form>
+                <div class="row">
+                    {% if messages %}
+                        {% for message in messages %}
+                            <div class="alert-light col-3">
+                                <strong>{{ message }}</strong>
+                            </div>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+                <div class="row mt-4">
+                    <div class="col-3">Итоговая стоимость (без учета доставки):</div>
+                    <div class="col-2 mt-2">{{ cart.final_price }} руб.</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 self-center mt-5">
+                    <a href="{% url 'order-address' %}">
+                        <button class="btn btn-dark">Перейти к оформлению</button>
+                    </a>
+                </div>
+            </div>
+
+            {#                    <td colspan="2"></td>#}
+            {#                    <td></td>#}
+            {#                    <td>Итого:</td>#}
+            {#                    <td>{{ cart.total_products }}</td>#}
+            {#                    <td><{{ cart.final_price }} руб.</td>#}
+            {##}
+            {#                    <td><a href="{% url 'checkout' %}">#}
+            {#                        <button class="btn btn-primary">Перейти к оформлению</button>#}
+            {#                    </a></td>#}
+            {#                </tr>#}
+            {#                </tbody>#}
+            {#            </table>#}
+
+            {#            <div class="promocode-block flex-column-start">#}
+            {#                <span>Введите промокод:</span>#}
+            {#                <form action="{% url 'activate-promocode' %}" class="flex-row-start">#}
+            {#                    <input type="text" name="promocode" placeholder="{{ cart.promocode.code }}">#}
+            {#                    <input type="submit" value="Активировать" class="pink-button">#}
+            {#                </form>#}
+            {#                <form action="{% url 'deactivate-promocode' %}">#}
+            {#                    <input type="submit" value="Удалить" class="pink-button">#}
+            {#                </form>#}
+            {#            </div>#}
+
+        </div>
+    </section>
+
+
+
+
+
+{% endblock %}

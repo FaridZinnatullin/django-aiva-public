@@ -1,0 +1,7765 @@
+[
+    {
+        "city": "Белогорск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 3,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Благовещенск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 4,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Завитинск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 5,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Зея",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 6,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Райчихинск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 7,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Свободный",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 8,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Сковородино",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 9,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Тында",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 10,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Шимановск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 11,
+        "region": "Амурская область"
+    },
+    {
+        "city": "Биробиджан",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 12,
+        "region": "Еврейская АО"
+    },
+    {
+        "city": "Облучье",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 13,
+        "region": "Еврейская АО"
+    },
+    {
+        "city": "Вилючинск",
+        "delivery_price": 600,
+        "district": "Дальневосточный",
+        "id": 14,
+        "region": "Камчатский край"
+    },
+    {
+        "city": "Елизово",
+        "delivery_price": 600,
+        "district": "Дальневосточный",
+        "id": 15,
+        "region": "Камчатский край"
+    },
+    {
+        "city": "Петропавловск-Камчатский",
+        "delivery_price": 600,
+        "district": "Дальневосточный",
+        "id": 16,
+        "region": "Камчатский край"
+    },
+    {
+        "city": "Магадан",
+        "delivery_price": 600,
+        "district": "Дальневосточный",
+        "id": 17,
+        "region": "Магаданская область"
+    },
+    {
+        "city": "Сусуман",
+        "delivery_price": 600,
+        "district": "Дальневосточный",
+        "id": 18,
+        "region": "Магаданская область"
+    },
+    {
+        "city": "Арсеньев",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 19,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Артём",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 20,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Большой Камень",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 21,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Владивосток",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 22,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Дальнегорск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 23,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Дальнереченск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 24,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Лесозаводск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 25,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Находка",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 26,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Партизанск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 27,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Спасск-Дальний",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 28,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Уссурийск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 29,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Фокино",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 30,
+        "region": "Приморский край"
+    },
+    {
+        "city": "Александровск-Сахалинский",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 31,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Анива",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 32,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Долинск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 33,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Корсаков",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 34,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Курильск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 35,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Макаров",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 36,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Невельск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 37,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Оха",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 38,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Поронайск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 39,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Северо-Курильск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 40,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Томари",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 41,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Углегорск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 42,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Холмск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 43,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Шахтёрск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 44,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Южно-Сахалинск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 45,
+        "region": "Сахалинская область"
+    },
+    {
+        "city": "Амурск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 46,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Бикин",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 47,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Вяземский",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 48,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Комсомольск-на-Амуре",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 49,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Николаевск-на-Амуре",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 50,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Советская Гавань",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 51,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Хабаровск",
+        "delivery_price": 400,
+        "district": "Дальневосточный",
+        "id": 52,
+        "region": "Хабаровский край"
+    },
+    {
+        "city": "Анадырь",
+        "delivery_price": 300,
+        "district": "Дальневосточный",
+        "id": 53,
+        "region": "Чукотский авт. окр."
+    },
+    {
+        "city": "Билибино",
+        "delivery_price": 300,
+        "district": "Дальневосточный",
+        "id": 54,
+        "region": "Чукотский авт. окр."
+    },
+    {
+        "city": "Певек",
+        "delivery_price": 300,
+        "district": "Дальневосточный",
+        "id": 55,
+        "region": "Чукотский авт. окр."
+    },
+    {
+        "city": "Алдан",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 56,
+        "region": "Якутия"
+    },
+    {
+        "city": "Верхоянск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 57,
+        "region": "Якутия"
+    },
+    {
+        "city": "Вилюйск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 58,
+        "region": "Якутия"
+    },
+    {
+        "city": "Ленск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 59,
+        "region": "Якутия"
+    },
+    {
+        "city": "Мирный",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 60,
+        "region": "Якутия"
+    },
+    {
+        "city": "Нерюнгри",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 61,
+        "region": "Якутия"
+    },
+    {
+        "city": "Нюрба",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 62,
+        "region": "Якутия"
+    },
+    {
+        "city": "Олёкминск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 63,
+        "region": "Якутия"
+    },
+    {
+        "city": "Покровск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 64,
+        "region": "Якутия"
+    },
+    {
+        "city": "Среднеколымск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 65,
+        "region": "Якутия"
+    },
+    {
+        "city": "Томмот",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 66,
+        "region": "Якутия"
+    },
+    {
+        "city": "Удачный",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 67,
+        "region": "Якутия"
+    },
+    {
+        "city": "Якутск",
+        "delivery_price": 800,
+        "district": "Дальневосточный",
+        "id": 68,
+        "region": "Якутия"
+    },
+    {
+        "city": "Агидель",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 69,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Баймак",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 70,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Белебей",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 71,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Белорецк",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 72,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Бирск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 73,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Благовещенск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 74,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Давлеканово",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 75,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Дюртюли",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 76,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Ишимбай",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 77,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Кумертау",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 78,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Межгорье",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 79,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Мелеуз",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 80,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Нефтекамск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 81,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Октябрьский",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 82,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Салават",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 83,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Сибай",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 84,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Стерлитамак",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 85,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Туймазы",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 86,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Уфа",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 87,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Учалы",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 88,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Янаул",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 89,
+        "region": "Башкортостан"
+    },
+    {
+        "city": "Белая Холуница",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 90,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Вятские Поляны",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 91,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Зуевка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 92,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Киров",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 93,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Кирово-Чепецк",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 94,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Кирс",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 95,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Котельнич",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 96,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Луза",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 97,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Малмыж",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 98,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Мураши",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 99,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Нолинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 100,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Омутнинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 101,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Орлов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 102,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Слободской",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 103,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Советск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 104,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Сосновка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 105,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Уржум",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 106,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Яранск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 107,
+        "region": "Кировская область"
+    },
+    {
+        "city": "Волжск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 108,
+        "region": "Марий Эл"
+    },
+    {
+        "city": "Звенигово",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 109,
+        "region": "Марий Эл"
+    },
+    {
+        "city": "Йошкар-Ола",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 110,
+        "region": "Марий Эл"
+    },
+    {
+        "city": "Козьмодемьянск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 111,
+        "region": "Марий Эл"
+    },
+    {
+        "city": "Ардатов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 112,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Инсар",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 113,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Ковылкино",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 114,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Краснослободск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 115,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Рузаевка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 116,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Саранск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 117,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Темников",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 118,
+        "region": "Мордовия"
+    },
+    {
+        "city": "Арзамас",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 119,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Балахна",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 120,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Богородск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 121,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Бор",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 122,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Ветлуга",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 123,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Володарск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 124,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Ворсма",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 125,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Выкса",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 126,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Горбатов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 127,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Городец",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 128,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Дзержинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 129,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Заволжье",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 130,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Княгинино",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 131,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Кстово",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 132,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Кулебаки",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 133,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Лукоянов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 134,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Лысково",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 135,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Навашино",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 136,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Нижний Новгород",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 137,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Павлово",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 138,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Первомайск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 139,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Перевоз",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 140,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Саров",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 141,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Семёнов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 142,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Сергач",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 143,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Урень",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 144,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Чкаловск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 145,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Шахунья",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 146,
+        "region": "Нижегородская область"
+    },
+    {
+        "city": "Абдулино",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 147,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Бугуруслан",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 148,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Бузулук",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 149,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Гай",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 150,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Кувандык",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 151,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Медногорск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 152,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Новотроицк",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 153,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Оренбург",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 154,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Орск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 155,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Соль-Илецк",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 156,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Сорочинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 157,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Ясный",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 158,
+        "region": "Оренбургская область"
+    },
+    {
+        "city": "Белинский",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 159,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Городище",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 160,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Заречный",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 161,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Каменка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 162,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Кузнецк",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 163,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Нижний Ломов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 164,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Никольск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 165,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Пенза",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 166,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Сердобск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 167,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Спасск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 168,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Сурск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 169,
+        "region": "Пензенская область"
+    },
+    {
+        "city": "Александровск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 170,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Березники",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 171,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Верещагино",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 172,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Горнозаводск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 173,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Гремячинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 174,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Губаха",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 175,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Добрянка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 176,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Кизел",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 177,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Красновишерск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 178,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Краснокамск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 179,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Кудымкар",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 180,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Кунгур",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 181,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Лысьва",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 182,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Нытва",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 183,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Оса",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 184,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Оханск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 185,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Очёр",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 186,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Пермь",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 187,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Соликамск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 188,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Усолье",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 189,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Чайковский",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 190,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Чердынь",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 191,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Чёрмоз",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 192,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Чернушка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 193,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Чусовой",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 194,
+        "region": "Пермский край"
+    },
+    {
+        "city": "Жигулёвск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 195,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Кинель",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 196,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Нефтегорск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 197,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Новокуйбышевск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 198,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Октябрьск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 199,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Отрадный",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 200,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Похвистнево",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 201,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Самара",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 202,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Сызрань",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 203,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Тольятти",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 204,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Чапаевск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 205,
+        "region": "Самарская область"
+    },
+    {
+        "city": "Аркадак",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 206,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Аткарск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 207,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Балаково",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 208,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Балашов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 209,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Вольск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 210,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Ершов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 211,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Калининск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 212,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Красноармейск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 213,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Красный Кут",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 214,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Маркс",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 215,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Новоузенск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 216,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Петровск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 217,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Пугачёв",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 218,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Ртищево",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 219,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Саратов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 220,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Хвалынск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 221,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Шиханы",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 222,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Энгельс",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 223,
+        "region": "Саратовская область"
+    },
+    {
+        "city": "Агрыз",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 224,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Азнакаево",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 225,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Альметьевск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 226,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Арск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 227,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Бавлы",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 228,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Болгар",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 229,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Бугульма",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 230,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Буинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 231,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Елабуга",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 232,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Заинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 233,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Зеленодольск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 234,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Казань",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 235,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Лаишево",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 236,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Лениногорск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 237,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Мамадыш",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 238,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Менделеевск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 239,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Мензелинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 240,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Набережные Челны",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 241,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Нижнекамск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 242,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Нурлат",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 243,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Тетюши",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 244,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Чистополь",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 245,
+        "region": "Татарстан"
+    },
+    {
+        "city": "Воткинск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 246,
+        "region": "Удмуртия"
+    },
+    {
+        "city": "Глазов",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 247,
+        "region": "Удмуртия"
+    },
+    {
+        "city": "Ижевск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 248,
+        "region": "Удмуртия"
+    },
+    {
+        "city": "Камбарка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 249,
+        "region": "Удмуртия"
+    },
+    {
+        "city": "Можга",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 250,
+        "region": "Удмуртия"
+    },
+    {
+        "city": "Сарапул",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 251,
+        "region": "Удмуртия"
+    },
+    {
+        "city": "Барыш",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 252,
+        "region": "Ульяновская область"
+    },
+    {
+        "city": "Димитровград",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 253,
+        "region": "Ульяновская область"
+    },
+    {
+        "city": "Инза",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 254,
+        "region": "Ульяновская область"
+    },
+    {
+        "city": "Новоульяновск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 255,
+        "region": "Ульяновская область"
+    },
+    {
+        "city": "Сенгилей",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 256,
+        "region": "Ульяновская область"
+    },
+    {
+        "city": "Ульяновск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 257,
+        "region": "Ульяновская область"
+    },
+    {
+        "city": "Алатырь",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 258,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Канаш",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 259,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Козловка",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 260,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Мариинский Посад",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 261,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Новочебоксарск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 262,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Цивильск",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 263,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Чебоксары",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 264,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Шумерля",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 265,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Ядрин",
+        "delivery_price": 300,
+        "district": "Приволжский",
+        "id": 266,
+        "region": "Чувашия"
+    },
+    {
+        "city": "Архангельск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 267,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Вельск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 268,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Каргополь",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 269,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Коряжма",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 270,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Котлас",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 271,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Мезень",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 272,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Мирный",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 273,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Новодвинск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 274,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Няндома",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 275,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Онега",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 276,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Северодвинск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 277,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Сольвычегодск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 278,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Шенкурск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 279,
+        "region": "Архангельская область"
+    },
+    {
+        "city": "Бабаево",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 280,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Белозерск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 281,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Великий Устюг",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 282,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Вологда",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 283,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Вытегра",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 284,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Грязовец",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 285,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Кадников",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 286,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Кириллов",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 287,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Красавино",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 288,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Никольск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 289,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Сокол",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 290,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Тотьма",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 291,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Устюжна",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 292,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Харовск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 293,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Череповец",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 294,
+        "region": "Вологодская область"
+    },
+    {
+        "city": "Багратионовск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 295,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Балтийск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 296,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Гвардейск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 297,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Гурьевск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 298,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Гусев",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 299,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Зеленоградск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 300,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Калининград",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 301,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Краснознаменск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 302,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Ладушкин",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 303,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Мамоново",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 304,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Неман",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 305,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Нестеров",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 306,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Озёрск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 307,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Пионерский",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 308,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Полесск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 309,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Правдинск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 310,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Светлогорск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 311,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Светлый",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 312,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Славск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 313,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Советск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 314,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Черняховск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 315,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Приморск",
+        "delivery_price": 400,
+        "district": "Северо-Западный",
+        "id": 316,
+        "region": "Калининградская область"
+    },
+    {
+        "city": "Беломорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 317,
+        "region": "Карелия"
+    },
+    {
+        "city": "Кемь",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 318,
+        "region": "Карелия"
+    },
+    {
+        "city": "Кондопога",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 319,
+        "region": "Карелия"
+    },
+    {
+        "city": "Костомукша",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 320,
+        "region": "Карелия"
+    },
+    {
+        "city": "Лахденпохья",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 321,
+        "region": "Карелия"
+    },
+    {
+        "city": "Медвежьегорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 322,
+        "region": "Карелия"
+    },
+    {
+        "city": "Олонец",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 323,
+        "region": "Карелия"
+    },
+    {
+        "city": "Петрозаводск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 324,
+        "region": "Карелия"
+    },
+    {
+        "city": "Питкяранта",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 325,
+        "region": "Карелия"
+    },
+    {
+        "city": "Пудож",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 326,
+        "region": "Карелия"
+    },
+    {
+        "city": "Сегежа",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 327,
+        "region": "Карелия"
+    },
+    {
+        "city": "Сортавала",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 328,
+        "region": "Карелия"
+    },
+    {
+        "city": "Суоярви",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 329,
+        "region": "Карелия"
+    },
+    {
+        "city": "Воркута",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 330,
+        "region": "Коми"
+    },
+    {
+        "city": "Вуктыл",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 331,
+        "region": "Коми"
+    },
+    {
+        "city": "Емва",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 332,
+        "region": "Коми"
+    },
+    {
+        "city": "Инта",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 333,
+        "region": "Коми"
+    },
+    {
+        "city": "Микунь",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 334,
+        "region": "Коми"
+    },
+    {
+        "city": "Печора",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 335,
+        "region": "Коми"
+    },
+    {
+        "city": "Сосногорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 336,
+        "region": "Коми"
+    },
+    {
+        "city": "Сыктывкар",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 337,
+        "region": "Коми"
+    },
+    {
+        "city": "Усинск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 338,
+        "region": "Коми"
+    },
+    {
+        "city": "Ухта",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 339,
+        "region": "Коми"
+    },
+    {
+        "city": "Бокситогорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 340,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Волосово",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 341,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Волхов",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 342,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Всеволожск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 343,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Выборг",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 344,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Высоцк",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 345,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Гатчина",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 346,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Ивангород",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 347,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Каменногорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 348,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Кингисепп",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 349,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Кириши",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 350,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Кировск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 351,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Коммунар",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 352,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Лодейное Поле",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 353,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Луга",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 354,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Любань",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 355,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Никольское",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 356,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Новая Ладога",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 357,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Отрадное",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 358,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Пикалёво",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 359,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Подпорожье",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 360,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Приморск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 361,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Приозерск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 362,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Светогорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 363,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Сертолово",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 364,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Сланцы",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 365,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Сосновый Бор",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 366,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Сясьстрой",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 367,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Тихвин",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 368,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Тосно",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 369,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Шлиссельбург",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 370,
+        "region": "Ленинградская область"
+    },
+    {
+        "city": "Апатиты",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 371,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Гаджиево",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 372,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Заозёрск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 373,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Заполярный",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 374,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Кандалакша",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 375,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Кировск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 376,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Ковдор",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 377,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Кола",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 378,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Мончегорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 379,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Мурманск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 380,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Оленегорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 381,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Островной",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 382,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Полярные Зори",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 383,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Полярный",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 384,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Североморск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 385,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Снежногорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 386,
+        "region": "Мурманская область"
+    },
+    {
+        "city": "Нарьян-Мар",
+        "delivery_price": 800,
+        "district": "Северо-Западный",
+        "id": 387,
+        "region": "Ненецкий Авт. Окр."
+    },
+    {
+        "city": "Боровичи",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 388,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Валдай",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 389,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Великий Новгород",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 390,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Малая Вишера",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 391,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Окуловка",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 392,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Пестово",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 393,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Сольцы",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 394,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Старая Русса",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 395,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Холм",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 396,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Чудово",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 397,
+        "region": "Новгородская область"
+    },
+    {
+        "city": "Великие Луки",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 398,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Гдов",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 399,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Дно",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 400,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Невель",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 401,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Новоржев",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 402,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Новосокольники",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 403,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Опочка",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 404,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Остров",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 405,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Печоры",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 406,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Порхов",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 407,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Псков",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 408,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Пустошка",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 409,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Пыталово",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 410,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Себеж",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 411,
+        "region": "Псковская область"
+    },
+    {
+        "city": "Зеленогорск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 412,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Колпино",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 413,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Красное Село",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 414,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Кронштадт",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 415,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Ломоносов",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 416,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Павловск",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 417,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Петергоф",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 418,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Пушкин",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 419,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 420,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Сестрорецк",
+        "delivery_price": 300,
+        "district": "Северо-Западный",
+        "id": 421,
+        "region": "Санкт-Петербург"
+    },
+    {
+        "city": "Буйнакск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 422,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Дагестанские Огни",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 423,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Дербент",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 424,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Избербаш",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 425,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Каспийск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 426,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Кизилюрт",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 427,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Кизляр",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 428,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Махачкала",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 429,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Хасавюрт",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 430,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Южно-Сухокумск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 431,
+        "region": "Дагестан"
+    },
+    {
+        "city": "Карабулак",
+        "delivery_price": 400,
+        "district": "Северо-Кавказский",
+        "id": 432,
+        "region": "Ингушетия"
+    },
+    {
+        "city": "Магас",
+        "delivery_price": 400,
+        "district": "Северо-Кавказский",
+        "id": 433,
+        "region": "Ингушетия"
+    },
+    {
+        "city": "Малгобек",
+        "delivery_price": 400,
+        "district": "Северо-Кавказский",
+        "id": 434,
+        "region": "Ингушетия"
+    },
+    {
+        "city": "Назрань",
+        "delivery_price": 400,
+        "district": "Северо-Кавказский",
+        "id": 435,
+        "region": "Ингушетия"
+    },
+    {
+        "city": "Баксан",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 436,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Майский",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 437,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Нальчик",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 438,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Нарткала",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 439,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Прохладный",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 440,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Терек",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 441,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Тырныауз",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 442,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Чегем",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 443,
+        "region": "Кабардино-Балкария"
+    },
+    {
+        "city": "Карачаевск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 444,
+        "region": "Карачаево-Черкесия"
+    },
+    {
+        "city": "Теберда",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 445,
+        "region": "Карачаево-Черкесия"
+    },
+    {
+        "city": "Усть-Джегута",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 446,
+        "region": "Карачаево-Черкесия"
+    },
+    {
+        "city": "Черкесск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 447,
+        "region": "Карачаево-Черкесия"
+    },
+    {
+        "city": "Алагир",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 448,
+        "region": "Северная Осетия - Алания"
+    },
+    {
+        "city": "Ардон",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 449,
+        "region": "Северная Осетия - Алания"
+    },
+    {
+        "city": "Беслан",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 450,
+        "region": "Северная Осетия - Алания"
+    },
+    {
+        "city": "Владикавказ",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 451,
+        "region": "Северная Осетия - Алания"
+    },
+    {
+        "city": "Дигора",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 452,
+        "region": "Северная Осетия - Алания"
+    },
+    {
+        "city": "Моздок",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 453,
+        "region": "Северная Осетия - Алания"
+    },
+    {
+        "city": "Благодарный",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 454,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Будённовск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 455,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Георгиевск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 456,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Ессентуки",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 457,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Железноводск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 458,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Зеленокумск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 459,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Изобильный",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 460,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Ипатово",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 461,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Кисловодск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 462,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Лермонтов",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 463,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Минеральные Воды",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 464,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Михайловск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 465,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Невинномысск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 466,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Нефтекумск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 467,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Новоалександровск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 468,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Новопавловск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 469,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Пятигорск",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 470,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Светлоград",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 471,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Ставрополь",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 472,
+        "region": "Ставропольский край"
+    },
+    {
+        "city": "Аргун",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 473,
+        "region": "Чечня"
+    },
+    {
+        "city": "Грозный",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 474,
+        "region": "Чечня"
+    },
+    {
+        "city": "Гудермес",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 475,
+        "region": "Чечня"
+    },
+    {
+        "city": "Урус-Мартан",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 476,
+        "region": "Чечня"
+    },
+    {
+        "city": "Шали",
+        "delivery_price": 300,
+        "district": "Северо-Кавказский",
+        "id": 477,
+        "region": "Чечня"
+    },
+    {
+        "city": "Горно-Алтайск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 478,
+        "region": "Алтай"
+    },
+    {
+        "city": "Алейск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 479,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Барнаул",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 480,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Белокуриха",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 481,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Бийск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 482,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Горняк",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 483,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Заринск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 484,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Змеиногорск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 485,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Камень-на-Оби",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 486,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Новоалтайск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 487,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Рубцовск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 488,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Славгород",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 489,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Яровое",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 490,
+        "region": "Алтайский край"
+    },
+    {
+        "city": "Бабушкин",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 491,
+        "region": "Бурятия"
+    },
+    {
+        "city": "Гусиноозёрск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 492,
+        "region": "Бурятия"
+    },
+    {
+        "city": "Закаменск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 493,
+        "region": "Бурятия"
+    },
+    {
+        "city": "Кяхта",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 494,
+        "region": "Бурятия"
+    },
+    {
+        "city": "Северобайкальск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 495,
+        "region": "Бурятия"
+    },
+    {
+        "city": "Улан-Удэ",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 496,
+        "region": "Бурятия"
+    },
+    {
+        "city": "Балей",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 497,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Борзя",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 498,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Краснокаменск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 499,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Могоча",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 500,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Нерчинск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 501,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Петровск-Забайкальский",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 502,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Сретенск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 503,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Хилок",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 504,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Чита",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 505,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Шилка",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 506,
+        "region": "Забайкальский край"
+    },
+    {
+        "city": "Алзамай",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 507,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Ангарск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 508,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Байкальск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 509,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Бирюсинск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 510,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Бодайбо",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 511,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Братск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 512,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Вихоревка",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 513,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Железногорск-Илимский",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 514,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Зима",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 515,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Иркутск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 516,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Киренск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 517,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Нижнеудинск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 518,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Саянск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 519,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Свирск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 520,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Слюдянка",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 521,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Тайшет",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 522,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Тулун",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 523,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Усолье-Сибирское",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 524,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Усть-Илимск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 525,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Усть-Кут",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 526,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Черемхово",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 527,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Шелехов",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 528,
+        "region": "Иркутская область"
+    },
+    {
+        "city": "Анжеро-Судженск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 529,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Белово",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 530,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Берёзовский",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 531,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Гурьевск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 532,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Калтан",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 533,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Кемерово",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 534,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Киселёвск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 535,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Ленинск-Кузнецкий",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 536,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Мариинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 537,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Междуреченск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 538,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Мыски",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 539,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Новокузнецк",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 540,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Осинники",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 541,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Полысаево",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 542,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Прокопьевск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 543,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Салаир",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 544,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Тайга",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 545,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Таштагол",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 546,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Топки",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 547,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Юрга",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 548,
+        "region": "Кемеровская область"
+    },
+    {
+        "city": "Артёмовск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 549,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Ачинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 550,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Боготол",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 551,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Бородино",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 552,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Дивногорск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 553,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Дудинка",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 554,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Енисейск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 555,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Железногорск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 556,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Заозёрный",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 557,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Зеленогорск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 558,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Игарка",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 559,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Иланский",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 560,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Канск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 561,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Кодинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 562,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Красноярск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 563,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Лесосибирск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 564,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Минусинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 565,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Назарово",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 566,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Норильск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 567,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Сосновоборск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 568,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Ужур",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 569,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Уяр",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 570,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Шарыпово",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 571,
+        "region": "Красноярский край"
+    },
+    {
+        "city": "Барабинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 572,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Бердск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 573,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Болотное",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 574,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Искитим",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 575,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Карасук",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 576,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Каргат",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 577,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Куйбышев",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 578,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Купино",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 579,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Новосибирск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 580,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Обь",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 581,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Татарск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 582,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Тогучин",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 583,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Черепаново",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 584,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Чулым",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 585,
+        "region": "Новосибирская область"
+    },
+    {
+        "city": "Исилькуль",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 586,
+        "region": "Омская область"
+    },
+    {
+        "city": "Калачинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 587,
+        "region": "Омская область"
+    },
+    {
+        "city": "Называевск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 588,
+        "region": "Омская область"
+    },
+    {
+        "city": "Омск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 589,
+        "region": "Омская область"
+    },
+    {
+        "city": "Тара",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 590,
+        "region": "Омская область"
+    },
+    {
+        "city": "Тюкалинск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 591,
+        "region": "Омская область"
+    },
+    {
+        "city": "Асино",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 592,
+        "region": "Томская область"
+    },
+    {
+        "city": "Кедровый",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 593,
+        "region": "Томская область"
+    },
+    {
+        "city": "Колпашево",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 594,
+        "region": "Томская область"
+    },
+    {
+        "city": "Северск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 595,
+        "region": "Томская область"
+    },
+    {
+        "city": "Стрежевой",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 596,
+        "region": "Томская область"
+    },
+    {
+        "city": "Томск",
+        "delivery_price": 300,
+        "district": "Сибирский",
+        "id": 597,
+        "region": "Томская область"
+    },
+    {
+        "city": "Ак-Довурак",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 598,
+        "region": "Тыва"
+    },
+    {
+        "city": "Кызыл",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 599,
+        "region": "Тыва"
+    },
+    {
+        "city": "Туран",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 600,
+        "region": "Тыва"
+    },
+    {
+        "city": "Чадан",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 601,
+        "region": "Тыва"
+    },
+    {
+        "city": "Шагонар",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 602,
+        "region": "Тыва"
+    },
+    {
+        "city": "Абаза",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 603,
+        "region": "Хакасия"
+    },
+    {
+        "city": "Абакан",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 604,
+        "region": "Хакасия"
+    },
+    {
+        "city": "Саяногорск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 605,
+        "region": "Хакасия"
+    },
+    {
+        "city": "Сорск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 606,
+        "region": "Хакасия"
+    },
+    {
+        "city": "Черногорск",
+        "delivery_price": 400,
+        "district": "Сибирский",
+        "id": 607,
+        "region": "Хакасия"
+    },
+    {
+        "city": "Далматово",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 608,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Катайск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 609,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Курган",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 610,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Куртамыш",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 611,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Макушино",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 612,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Петухово",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 613,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Шадринск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 614,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Шумиха",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 615,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Щучье",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 616,
+        "region": "Курганская область"
+    },
+    {
+        "city": "Алапаевск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 617,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Арамиль",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 618,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Артёмовский",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 619,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Асбест",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 620,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Берёзовский",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 621,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Богданович",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 622,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Верхний Тагил",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 623,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Верхняя Пышма",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 624,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Верхняя Салда",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 625,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Верхняя Тура",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 626,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Верхотурье",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 627,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Волчанск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 628,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Дегтярск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 629,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Екатеринбург",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 630,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Заречный",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 631,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Ивдель",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 632,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Ирбит",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 633,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Каменск-Уральский",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 634,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Камышлов",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 635,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Карпинск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 636,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Качканар",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 637,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Кировград",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 638,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Краснотурьинск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 639,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Красноуральск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 640,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Красноуфимск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 641,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Кушва",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 642,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Лесной",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 643,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Михайловск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 644,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Невьянск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 645,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Нижние Серги",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 646,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Нижний Тагил",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 647,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Нижняя Салда",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 648,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Нижняя Тура",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 649,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Новая Ляля",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 650,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Новоуральск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 651,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Первоуральск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 652,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Полевской",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 653,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Ревда",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 654,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Реж",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 655,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Североуральск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 656,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Серов",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 657,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Среднеуральск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 658,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Сухой Лог",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 659,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Сысерть",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 660,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Тавда",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 661,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Талица",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 662,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Туринск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 663,
+        "region": "Свердловская область"
+    },
+    {
+        "city": "Заводоуковск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 664,
+        "region": "Тюменская область"
+    },
+    {
+        "city": "Ишим",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 665,
+        "region": "Тюменская область"
+    },
+    {
+        "city": "Тобольск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 666,
+        "region": "Тюменская область"
+    },
+    {
+        "city": "Тюмень",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 667,
+        "region": "Тюменская область"
+    },
+    {
+        "city": "Ялуторовск",
+        "delivery_price": 300,
+        "district": "Уральский",
+        "id": 668,
+        "region": "Тюменская область"
+    },
+    {
+        "city": "Белоярский",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 669,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Когалым",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 670,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Лангепас",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 671,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Лянтор",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 672,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Мегион",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 673,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Нефтеюганск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 674,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Нижневартовск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 675,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Нягань",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 676,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Покачи",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 677,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Пыть-Ях",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 678,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Радужный",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 679,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Советский",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 680,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Сургут",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 681,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Урай",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 682,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Ханты-Мансийск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 683,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Югорск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 684,
+        "region": "Ханты-Мансийский авт. окр."
+    },
+    {
+        "city": "Аша",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 685,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Бакал",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 686,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Верхнеуральск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 687,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Верхний Уфалей",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 688,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Еманжелинск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 689,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Златоуст",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 690,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Карабаш",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 691,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Карталы",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 692,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Касли",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 693,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Катав-Ивановск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 694,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Копейск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 695,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Коркино",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 696,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Куса",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 697,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Кыштым",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 698,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Магнитогорск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 699,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Миасс",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 700,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Миньяр",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 701,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Нязепетровск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 702,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Озёрск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 703,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Пласт",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 704,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Сатка",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 705,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Сим",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 706,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Снежинск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 707,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Трёхгорный",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 708,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Троицк",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 709,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Усть-Катав",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 710,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Чебаркуль",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 711,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Челябинск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 712,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Южноуральск",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 713,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Юрюзань",
+        "delivery_price": 400,
+        "district": "Уральский",
+        "id": 714,
+        "region": "Челябинская область"
+    },
+    {
+        "city": "Губкинский",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 715,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Лабытнанги",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 716,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Муравленко",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 717,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Надым",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 718,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Новый Уренгой",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 719,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Ноябрьск",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 720,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Салехард",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 721,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Тарко-Сале",
+        "delivery_price": 800,
+        "district": "Уральский",
+        "id": 722,
+        "region": "Ямало-Ненецкий авт. окр."
+    },
+    {
+        "city": "Алексеевка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 723,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Белгород",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 724,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Бирюч",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 725,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Валуйки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 726,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Грайворон",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 727,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Губкин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 728,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Короча",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 729,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Новый Оскол",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 730,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Старый Оскол",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 731,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Строитель",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 732,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Шебекино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 733,
+        "region": "Белгородская область"
+    },
+    {
+        "city": "Брянск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 734,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Дятьково",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 735,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Жуковка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 736,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Злынка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 737,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Карачев",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 738,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Клинцы",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 739,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Мглин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 740,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Новозыбков",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 741,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Почеп",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 742,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Севск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 743,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Сельцо",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 744,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Стародуб",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 745,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Сураж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 746,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Трубчевск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 747,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Унеча",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 748,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Фокино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 749,
+        "region": "Брянская область"
+    },
+    {
+        "city": "Александров",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 750,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Владимир",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 751,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Вязники",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 752,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Гороховец",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 753,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Гусь-Хрустальный",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 754,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Камешково",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 755,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Карабаново",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 756,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Киржач",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 757,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Ковров",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 758,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Кольчугино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 759,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Костерёво",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 760,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Курлово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 761,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Лакинск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 762,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Меленки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 763,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Муром",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 764,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Петушки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 765,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Покров",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 766,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Радужный",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 767,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Собинка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 768,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Струнино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 769,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Судогда",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 770,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Суздаль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 771,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Юрьев-Польский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 772,
+        "region": "Владимирская область"
+    },
+    {
+        "city": "Бобров",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 773,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Богучар",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 774,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Борисоглебск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 775,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Бутурлиновка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 776,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Воронеж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 777,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Калач",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 778,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Лиски",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 779,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Нововоронеж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 780,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Новохопёрск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 781,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Острогожск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 782,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Павловск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 783,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Поворино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 784,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Россошь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 785,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Семилуки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 786,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Эртиль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 787,
+        "region": "Воронежская область"
+    },
+    {
+        "city": "Вичуга",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 788,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Гаврилов Посад",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 789,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Заволжск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 790,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Иваново",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 791,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Кинешма",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 792,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Комсомольск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 793,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Кохма",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 794,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Наволоки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 795,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Плёс",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 796,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Приволжск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 797,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Пучеж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 798,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Родники",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 799,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Тейково",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 800,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Фурманов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 801,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Шуя",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 802,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Южа",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 803,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Юрьевец",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 804,
+        "region": "Ивановская область"
+    },
+    {
+        "city": "Балабаново",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 805,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Белоусово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 806,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Боровск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 807,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Ермолино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 808,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Жиздра",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 809,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Жуков",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 810,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Калуга",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 811,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Киров",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 812,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Козельск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 813,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Кондрово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 814,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Кремёнки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 815,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Людиново",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 816,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Малоярославец",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 817,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Медынь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 818,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Мещовск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 819,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Мосальск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 820,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Обнинск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 821,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Сосенский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 822,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Спас-Деменск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 823,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Сухиничи",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 824,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Таруса",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 825,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Юхнов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 826,
+        "region": "Калужская область"
+    },
+    {
+        "city": "Буй",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 827,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Волгореченск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 828,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Галич",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 829,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Кологрив",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 830,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Кострома",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 831,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Макарьев",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 832,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Мантурово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 833,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Нерехта",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 834,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Нея",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 835,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Солигалич",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 836,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Чухлома",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 837,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Шарья",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 838,
+        "region": "Костромская область"
+    },
+    {
+        "city": "Дмитриев",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 839,
+        "region": "Курская область"
+    },
+    {
+        "city": "Железногорск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 840,
+        "region": "Курская область"
+    },
+    {
+        "city": "Курск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 841,
+        "region": "Курская область"
+    },
+    {
+        "city": "Курчатов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 842,
+        "region": "Курская область"
+    },
+    {
+        "city": "Льгов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 843,
+        "region": "Курская область"
+    },
+    {
+        "city": "Обоянь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 844,
+        "region": "Курская область"
+    },
+    {
+        "city": "Рыльск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 845,
+        "region": "Курская область"
+    },
+    {
+        "city": "Суджа",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 846,
+        "region": "Курская область"
+    },
+    {
+        "city": "Фатеж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 847,
+        "region": "Курская область"
+    },
+    {
+        "city": "Щигры",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 848,
+        "region": "Курская область"
+    },
+    {
+        "city": "Грязи",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 849,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Данков",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 850,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Елец",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 851,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Задонск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 852,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Лебедянь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 853,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Липецк",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 854,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Усмань",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 855,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Чаплыгин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 856,
+        "region": "Липецкая область"
+    },
+    {
+        "city": "Москва",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 857,
+        "region": "Москва"
+    },
+    {
+        "city": "Апрелевка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 858,
+        "region": "Московская область"
+    },
+    {
+        "city": "Балашиха",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 859,
+        "region": "Московская область"
+    },
+    {
+        "city": "Бронницы",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 860,
+        "region": "Московская область"
+    },
+    {
+        "city": "Верея",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 861,
+        "region": "Московская область"
+    },
+    {
+        "city": "Видное",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 862,
+        "region": "Московская область"
+    },
+    {
+        "city": "Волоколамск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 863,
+        "region": "Московская область"
+    },
+    {
+        "city": "Воскресенск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 864,
+        "region": "Московская область"
+    },
+    {
+        "city": "Высоковск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 865,
+        "region": "Московская область"
+    },
+    {
+        "city": "Голицыно",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 866,
+        "region": "Московская область"
+    },
+    {
+        "city": "Дедовск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 867,
+        "region": "Московская область"
+    },
+    {
+        "city": "Дзержинский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 868,
+        "region": "Московская область"
+    },
+    {
+        "city": "Дмитров",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 869,
+        "region": "Московская область"
+    },
+    {
+        "city": "Долгопрудный",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 870,
+        "region": "Московская область"
+    },
+    {
+        "city": "Домодедово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 871,
+        "region": "Московская область"
+    },
+    {
+        "city": "Дрезна",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 872,
+        "region": "Московская область"
+    },
+    {
+        "city": "Дубна",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 873,
+        "region": "Московская область"
+    },
+    {
+        "city": "Егорьевск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 874,
+        "region": "Московская область"
+    },
+    {
+        "city": "Железнодорожный",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 875,
+        "region": "Московская область"
+    },
+    {
+        "city": "Жуковский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 876,
+        "region": "Московская область"
+    },
+    {
+        "city": "Зарайск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 877,
+        "region": "Московская область"
+    },
+    {
+        "city": "Звенигород",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 878,
+        "region": "Московская область"
+    },
+    {
+        "city": "Ивантеевка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 879,
+        "region": "Московская область"
+    },
+    {
+        "city": "Истра",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 880,
+        "region": "Московская область"
+    },
+    {
+        "city": "Кашира",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 881,
+        "region": "Московская область"
+    },
+    {
+        "city": "Климовск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 882,
+        "region": "Московская область"
+    },
+    {
+        "city": "Клин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 883,
+        "region": "Московская область"
+    },
+    {
+        "city": "Коломна",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 884,
+        "region": "Московская область"
+    },
+    {
+        "city": "Котельники",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 885,
+        "region": "Московская область"
+    },
+    {
+        "city": "Королёв",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 886,
+        "region": "Московская область"
+    },
+    {
+        "city": "Красноармейск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 887,
+        "region": "Московская область"
+    },
+    {
+        "city": "Красногорск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 888,
+        "region": "Московская область"
+    },
+    {
+        "city": "Краснозаводск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 889,
+        "region": "Московская область"
+    },
+    {
+        "city": "Краснознаменск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 890,
+        "region": "Московская область"
+    },
+    {
+        "city": "Кубинка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 891,
+        "region": "Московская область"
+    },
+    {
+        "city": "Куровское",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 892,
+        "region": "Московская область"
+    },
+    {
+        "city": "Ликино-Дулёво",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 893,
+        "region": "Московская область"
+    },
+    {
+        "city": "Лобня",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 894,
+        "region": "Московская область"
+    },
+    {
+        "city": "Лосино-Петровский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 895,
+        "region": "Московская область"
+    },
+    {
+        "city": "Луховицы",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 896,
+        "region": "Московская область"
+    },
+    {
+        "city": "Лыткарино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 897,
+        "region": "Московская область"
+    },
+    {
+        "city": "Люберцы",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 898,
+        "region": "Московская область"
+    },
+    {
+        "city": "Можайск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 899,
+        "region": "Московская область"
+    },
+    {
+        "city": "Московский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 900,
+        "region": "Москва"
+    },
+    {
+        "city": "Мытищи",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 901,
+        "region": "Московская область"
+    },
+    {
+        "city": "Наро-Фоминск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 902,
+        "region": "Московская область"
+    },
+    {
+        "city": "Ногинск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 903,
+        "region": "Московская область"
+    },
+    {
+        "city": "Одинцово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 904,
+        "region": "Московская область"
+    },
+    {
+        "city": "Ожерелье",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 905,
+        "region": "Московская область"
+    },
+    {
+        "city": "Озёры",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 906,
+        "region": "Московская область"
+    },
+    {
+        "city": "Орехово-Зуево",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 907,
+        "region": "Московская область"
+    },
+    {
+        "city": "Павловский Посад",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 908,
+        "region": "Московская область"
+    },
+    {
+        "city": "Пересвет",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 909,
+        "region": "Московская область"
+    },
+    {
+        "city": "Подольск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 910,
+        "region": "Московская область"
+    },
+    {
+        "city": "Протвино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 911,
+        "region": "Московская область"
+    },
+    {
+        "city": "Пушкино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 912,
+        "region": "Московская область"
+    },
+    {
+        "city": "Пущино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 913,
+        "region": "Московская область"
+    },
+    {
+        "city": "Раменское",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 914,
+        "region": "Московская область"
+    },
+    {
+        "city": "Реутов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 915,
+        "region": "Московская область"
+    },
+    {
+        "city": "Рошаль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 916,
+        "region": "Московская область"
+    },
+    {
+        "city": "Руза",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 917,
+        "region": "Московская область"
+    },
+    {
+        "city": "Сергиев Посад",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 918,
+        "region": "Московская область"
+    },
+    {
+        "city": "Серпухов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 919,
+        "region": "Московская область"
+    },
+    {
+        "city": "Солнечногорск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 920,
+        "region": "Московская область"
+    },
+    {
+        "city": "Старая Купавна",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 921,
+        "region": "Московская область"
+    },
+    {
+        "city": "Ступино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 922,
+        "region": "Московская область"
+    },
+    {
+        "city": "Талдом",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 923,
+        "region": "Московская область"
+    },
+    {
+        "city": "Троицк",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 924,
+        "region": "Москва"
+    },
+    {
+        "city": "Фрязино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 925,
+        "region": "Московская область"
+    },
+    {
+        "city": "Химки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 926,
+        "region": "Московская область"
+    },
+    {
+        "city": "Хотьково",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 927,
+        "region": "Московская область"
+    },
+    {
+        "city": "Черноголовка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 928,
+        "region": "Московская область"
+    },
+    {
+        "city": "Чехов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 929,
+        "region": "Московская область"
+    },
+    {
+        "city": "Шатура",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 930,
+        "region": "Московская область"
+    },
+    {
+        "city": "Щёлково",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 931,
+        "region": "Московская область"
+    },
+    {
+        "city": "Щербинка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 932,
+        "region": "Москва"
+    },
+    {
+        "city": "Электрогорск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 933,
+        "region": "Московская область"
+    },
+    {
+        "city": "Электросталь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 934,
+        "region": "Московская область"
+    },
+    {
+        "city": "Электроугли",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 935,
+        "region": "Московская область"
+    },
+    {
+        "city": "Юбилейный",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 936,
+        "region": "Московская область"
+    },
+    {
+        "city": "Яхрома",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 937,
+        "region": "Московская область"
+    },
+    {
+        "city": "Болхов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 938,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Дмитровск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 939,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Ливны",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 940,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Малоархангельск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 941,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Мценск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 942,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Новосиль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 943,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Орёл",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 944,
+        "region": "Орловская область"
+    },
+    {
+        "city": "Касимов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 945,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Кораблино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 946,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Михайлов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 947,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Новомичуринск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 948,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Рыбное",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 949,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Ряжск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 950,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Рязань",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 951,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Сасово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 952,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Скопин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 953,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Спас-Клепики",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 954,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Спасск-Рязанский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 955,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Шацк",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 956,
+        "region": "Рязанская область"
+    },
+    {
+        "city": "Велиж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 957,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Вязьма",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 958,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Гагарин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 959,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Демидов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 960,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Десногорск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 961,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Дорогобуж",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 962,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Духовщина",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 963,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Ельня",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 964,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Починок",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 965,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Рославль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 966,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Рудня",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 967,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Сафоново",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 968,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Смоленск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 969,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Сычёвка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 970,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Ярцево",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 971,
+        "region": "Смоленская область"
+    },
+    {
+        "city": "Жердевка",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 972,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Кирсанов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 973,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Котовск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 974,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Мичуринск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 975,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Моршанск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 976,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Рассказово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 977,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Тамбов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 978,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Уварово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 979,
+        "region": "Тамбовская область"
+    },
+    {
+        "city": "Андреаполь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 980,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Бежецк",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 981,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Белый",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 982,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Бологое",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 983,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Весьегонск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 984,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Вышний Волочёк",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 985,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Западная Двина",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 986,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Зубцов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 987,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Калязин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 988,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Кашин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 989,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Кимры",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 990,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Конаково",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 991,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Красный Холм",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 992,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Кувшиново",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 993,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Лихославль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 994,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Нелидово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 995,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Осташков",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 996,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Ржев",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 997,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Старица",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 998,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Тверь",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 999,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Торжок",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1000,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Торопец",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1001,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Удомля",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1002,
+        "region": "Тверская область"
+    },
+    {
+        "city": "Алексин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1003,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Белёв",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1004,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Богородицк",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1005,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Болохово",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1006,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Венёв",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1007,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Донской",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1008,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Ефремов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1009,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Кимовск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1010,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Киреевск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1011,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Липки",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1012,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Новомосковск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1013,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Плавск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1014,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Суворов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1015,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Тула",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1016,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Узловая",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1017,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Чекалин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1018,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Щёкино",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1019,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Ясногорск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1020,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Советск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1021,
+        "region": "Тульская область"
+    },
+    {
+        "city": "Гаврилов-Ям",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1022,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Данилов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1023,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Любим",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1024,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Мышкин",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1025,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Переславль-Залесский",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1026,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Пошехонье",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1027,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Ростов",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1028,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Рыбинск",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1029,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Тутаев",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1030,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Углич",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1031,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Ярославль",
+        "delivery_price": 300,
+        "district": "Центральный",
+        "id": 1032,
+        "region": "Ярославская область"
+    },
+    {
+        "city": "Адыгейск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1033,
+        "region": "Адыгея"
+    },
+    {
+        "city": "Майкоп",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1034,
+        "region": "Адыгея"
+    },
+    {
+        "city": "Астрахань",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1035,
+        "region": "Астраханская область"
+    },
+    {
+        "city": "Ахтубинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1036,
+        "region": "Астраханская область"
+    },
+    {
+        "city": "Знаменск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1037,
+        "region": "Астраханская область"
+    },
+    {
+        "city": "Камызяк",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1038,
+        "region": "Астраханская область"
+    },
+    {
+        "city": "Нариманов",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1039,
+        "region": "Астраханская область"
+    },
+    {
+        "city": "Харабали",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1040,
+        "region": "Астраханская область"
+    },
+    {
+        "city": "Волгоград",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1041,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Волжский",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1042,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Дубовка",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1043,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Жирновск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1044,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Калач-на-Дону",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1045,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Камышин",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1046,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Котельниково",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1047,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Котово",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1048,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Краснослободск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1049,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Ленинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1050,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Михайловка",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1051,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Николаевск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1052,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Новоаннинский",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1053,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Палласовка",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1054,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Петров Вал",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1055,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Серафимович",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1056,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Суровикино",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1057,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Урюпинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1058,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Фролово",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1059,
+        "region": "Волгоградская область"
+    },
+    {
+        "city": "Городовиковск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1060,
+        "region": "Калмыкия"
+    },
+    {
+        "city": "Лагань",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1061,
+        "region": "Калмыкия"
+    },
+    {
+        "city": "Элиста",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1062,
+        "region": "Калмыкия"
+    },
+    {
+        "city": "Абинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1063,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Анапа",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1064,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Апшеронск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1065,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Армавир",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1066,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Белореченск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1067,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Геленджик",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1068,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Горячий Ключ",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1069,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Гулькевичи",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1070,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Ейск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1071,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Кореновск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1072,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Краснодар",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1073,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Кропоткин",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1074,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Крымск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1075,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Курганинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1076,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Лабинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1077,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Новокубанск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1078,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Новороссийск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1079,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Приморско-Ахтарск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1080,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Славянск-на-Кубани",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1081,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Сочи",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1082,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Темрюк",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1083,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Тимашёвск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1084,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Тихорецк",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1085,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Туапсе",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1086,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Усть-Лабинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1087,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Хадыженск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1088,
+        "region": "Краснодарский край"
+    },
+    {
+        "city": "Азов",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1089,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Аксай",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1090,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Батайск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1091,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Белая Калитва",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1092,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Волгодонск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1093,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Гуково",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1094,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Донецк",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1095,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Зверево",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1096,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Зерноград",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1097,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Каменск-Шахтинский",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1098,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Константиновск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1099,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Красный Сулин",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1100,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Миллерово",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1101,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Морозовск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1102,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Новочеркасск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1103,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Новошахтинск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1104,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Пролетарск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1105,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Ростов-на-Дону",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1106,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Сальск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1107,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Семикаракорск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1108,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Таганрог",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1109,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Цимлянск",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1110,
+        "region": "Ростовская область"
+    },
+    {
+        "city": "Шахты",
+        "delivery_price": 300,
+        "district": "Южный",
+        "id": 1111,
+        "region": "Ростовская область"
+    }
+]

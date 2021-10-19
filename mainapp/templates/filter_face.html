@@ -1,0 +1,49 @@
+
+<div class="filter-block">
+    <form action="{{category.get_absolute_url}}" method="get">
+        <h3 class="text-black-title">Тип кожи</h3>
+        <ul class="checkbox-list">
+            {% for type in filter_typeskin %}
+                <li class="flex-row-start flex-nowrap">
+                    <input type="checkbox" class="checked" name="type_skin" value="{{ type.id }}">
+                    <span class="span editContent">{{ type.title }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <h3 class="text-black-title">Объем</h3>
+        <ul class="checkbox-list">
+            {% for size in filter_size %}
+                <li class="flex-row-start">
+                    <input type="checkbox" class="checked" name="size" value="{{ size.id }}">
+                    <span class="span editContent">{{ size.title }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <h3 class="text-black-title">Проблема</h3>
+        <ul class="checkbox-list">
+            {% for problems in filter_face_problem %}
+                <li class="flex-row-start">
+                    <input type="checkbox" class="checked" name="problems" value="{{ problems.id }}">
+                    <span class="span editContent">{{ problems.title }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <h3 class="text-black-title">Серия</h3>
+        <ul class="checkbox-list">
+            {% for seria in filter_face_series %}
+                <li class="flex-row-start">
+                    <input type="checkbox" class="checked" name="series" value="{{ seria.id }}">
+                    <span class="span editContent">{{ seria.title }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+
+        <button type="submit" class="green-button ">
+            Применить
+        </button>
+    </form>
+
+</div>

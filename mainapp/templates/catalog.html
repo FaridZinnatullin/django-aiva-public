@@ -1,0 +1,17 @@
+<div class=" full-block flex-row-center flex-wrap">
+        {% for product in category_products %}
+            <div class="flex-column-center">
+                {% include 'product_card.html' %}
+                <h4>{{ product.price }} руб.</h4>
+                <a href="{% url 'add_to_cart' slug=product.slug %}">
+                    <div class="green-button" >Добавить в корзину</div>
+                </a>
+            </div>
+      {% endfor %}
+
+</div>
+
+
+
+
+
